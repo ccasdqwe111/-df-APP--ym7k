@@ -1,4 +1,4 @@
-<图片 width="300" height="200" alt="timthumb" src=“https://github.com/user-attachments/assets/744a221a-076d-4634-9430-b36a3f7662c6” />#求职招聘小程序劳务派遣系统灵活用工APP源码搭建-ym7k
+# 求职招聘小程序劳务派遣系统灵活用工APP源码搭建-ym7k
 
  获取源码：ym7k.com/19203/求职招聘小程序劳务派遣系统灵活用工APP源码搭建-ym7k
 
@@ -17,11 +17,5 @@
 系统提供简历开关功能：打开后简历正常展示企业可查看；关闭后企业端查看不到该简历，但已投递的企业可以正常看到。这一设计平衡求职者隐私保护与投递企业知情权，求职者可根据求职状态灵活控制简历可见性。我的积分模块展示积分余额、积分明细、我的地址和可兑换商品。求职者通过分享职位、每日签到等行为获取积分，积分可在积分商城兑换商品。我的附件支持从手机上传文件到小程序然后在作品附件中选择使用。求职端功能围绕“找工作、投简历、管进度、护隐私”四大核心场景设计。
 
 
-<图片 width="715" height="865" alt="f0f16ff8198bf78f31b716a2aad1397c" src="https://github.com/user-attachments/assets/6a17def8-ee1f-430a-9678-80b342ef0faa" />
-<图片宽度="645" 高度="1000" alt=“b55d11098d6f12b080a1c355822ee7f4” src=“https://github.com/user-attachments/assets/a22b28c2-9fb8-44dd-bd65-1456a75c4354” />
 <img width="601" height="799" alt="7209270cfc473647bbd45069b787ba02" src="https://github.com/user-attachments/assets/27bf4fa6-9768-4291-8515-2a349e57d8e4" />
 <img width="705" height="440" alt="34afb85ff1392c4458f461f469e80881" src="https://github.com/user-attachments/assets/74fa4161-6c42-4a2f-8cc7-bc2f40e3be73" />
-<img width="610" height="1015" 替代文本="4d4796d0d4f3fb8271d3fb2b6b996c5e" 源地址="https://github.com/user-attachments/assets/24870fdf-dcec-41d0-86e4-05632eb43707" />
-<图片 width="620" height="475" alt="1e50281fd1310747e42a90f6e466dff8" src="https://github.com/user-attachments/assets/4d1fc835-6380-4ce4-ad79-5a8a779e8a69" />
-<图片 width="616" height="979" alt="01ecebbe8b8ea61c56825ad82f582dcd" src=“https://github.com/user-attachments/assets/ab228b28-8d74-4bac-a5f5-6a008437fca7” />
-![正在上传 timthumb.png…]()
